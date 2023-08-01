@@ -11,10 +11,17 @@ function App() {
   const [selectedAnswer, setSelectedAnswer] = useState('')
   const [marks, setMarks] = useState(0)
 
-  // These are Controlling States
+  // Display Controlling States
   const [showStart, setShowStart] = useState(true)
   const [showQuiz, setShowQuiz] = useState(false)
   const [showResult, setShowResult] = useState(false)
+
+  // Load JSON Data
+  useEffect(() => {
+    fetch('quiz.json')
+      .then((res) => res.json())
+      .then((data) => setQuizs(data))
+  }, [])
 
   return <></>
 }

@@ -23,6 +23,11 @@ function App() {
       .then((data) => setQuizs(data))
   }, [])
 
+  const startQuiz = () => {
+    setShowStart(false)
+    setShowQuiz(true)
+  }
+
   return <></>
 }
 

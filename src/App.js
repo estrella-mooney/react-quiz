@@ -11,6 +11,11 @@ function App() {
   const [selectedAnswer, setSelectedAnswer] = useState('')
   const [marks, setMarks] = useState(0)
 
+  // These are Controlling States
+  const [showStart, setShowStart] = useState(true)
+  const [showQuiz, setShowQuiz] = useState(false)
+  const [showResult, setShowResult] = useState(false)
+
   return <></>
 }
 

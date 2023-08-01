@@ -1,0 +1,112 @@
+[
+  {
+      "id": "01",
+      "question" : "What is the name of the first privately-funded spacecraft that successfully reached orbit?",
+      "options": [
+          "Starship One",
+          "Genesis Probe",
+          "Falcon 1",
+          "Celestial Venture"
+      ],
+      "answer": "Falcon 1"
+  },
+  {
+      "id": "02",
+      "question" : "Which space mission was launched to study the Trojan asteroids, which share Jupiter's orbit around the Sun?",
+      "options": [
+          "Project LISA",
+          "Dawn Mission",
+          "Lucy Mission",
+          "Galileo Mission"
+      ],
+      "answer": "Lucy Mission"
+  },
+  {
+      "id": "03",
+      "question" : "What is the term for a region in space where gravitational forces are so strong that nothing, not even light, can escape from it?",
+      "options": [
+          "Black Star",
+          "Gravitational Void",
+          "Dark Matter Zone",
+          "Black Hole"
+      ],
+      "answer": "Black Hole"
+  },
+  {
+      "id": "04",
+      "question" : "Which comet, discovered in 2014, made a close approach to the Sun and disintegrated into several fragments during its journey?",
+      "options": [
+          "Hale-Bopp",
+          "Lovejoy",
+          "Atlas",
+          "ISON"
+      ],
+      "answer": "ISON"
+  },
+  {
+      "id": "05",
+      "question" : "Which space telescope, launched in 2009, was specifically designed to study exoplanets and their atmospheres?",
+      "options": [
+          "James Webb Space Telescope (JWST)",
+          "Kepler Space Telescope",
+          "Spitzer Space Telescope",
+          "Hubble Space Telescope"
+      ],
+      "answer": "Kepler Space Telescope"
+  },
+  {
+      "id": "06",
+      "question" : "What is the name of the mission that successfully landed a probe on the surface of a comet in 2014?",
+      "options": [
+          "Stardust Mission",
+          "Rosetta Mission",
+          "Voyager Mission",
+          "Comet Chaser Mission"
+      ],
+      "answer": "Rosetta Mission"
+  },
+  {
+      "id": "07",
+      "question" : "Which spacecraft, launched in 1990, was the first to visit the ice giants Uranus and Neptune?",
+      "options": [
+          "Voyager 1",
+          "Voyager 2",
+          "Pioneer 10",
+          "Magellan"
+      ],
+      "answer": "Voyager 2"
+  },
+  {
+      "id": "08",
+      "question" : "What is the name of the region beyond Pluto that contains numerous small icy bodies?",
+      "options": [
+          "Kuiper Belt",
+          "Oort Cloud",
+          "Scattered Disc",
+          "Asteroid Belt"
+      ],
+      "answer": "Kuiper Belt"
+  },
+  {
+      "id": "09",
+      "question" : "Which space mission, launched by the European Space Agency (ESA), was dedicated to studying the Sun and its activity?",
+      "options": [
+          "Solar Probe Plus",
+          "Solar Orbiter",
+          "Solar Dynamics Observatory (SDO)",
+          "Solar Polar Mission"
+      ],
+      "answer": "Solar Orbiter"
+  },
+  {
+      "id": "10",
+      "question" : "What type of celestial object is the Chelyabinsk meteor, which exploded over Russia in 2013, causing a powerful shockwave?",
+      "options": [
+          "Asteroid",
+          "Comet",
+          "Meteoroid",
+          "Exoplanetesimal"
+      ],
+      "answer": "Meteoroid"
+  }
+]
